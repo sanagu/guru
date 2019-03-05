@@ -1,4 +1,4 @@
-SQL:-
+SQL4567
 1.	Display all departments from department table.
         select * from departments;
 
